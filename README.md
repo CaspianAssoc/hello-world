@@ -1,2 +1,3 @@
 # hello-world
-yest another newbie
+yet another newbie
+trying out Git hub
